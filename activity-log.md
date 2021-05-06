@@ -5,7 +5,10 @@ Added some styling to 100Devs group project: social networking app "Crumbs"
 Attended part of 100Devs BackEnd super review, was still going when I went to bed at 8:30pm.
 
 2021-05-03
-
+Continued editing Crumbs app, focused on smaller screen styling. Having lots of trouble with Bootstrap.
 
 2021-05-04
 Talked with my group about final revisions to our Crumbs app. Watched a little bit of 100Devs class.
+
+2021-05-05
+No coding. Rest day. Followed several devs on Twitter.
