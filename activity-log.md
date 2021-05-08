@@ -12,3 +12,13 @@ Talked with my group about final revisions to our Crumbs app. Watched a little b
 
 2021-05-05
 No coding. Rest day. Followed several devs on Twitter.
+
+2021-05-06
+Attended 100Devs class and group session. Discussed final features to add before group project is due next Tuesday.
+May have figured out what I'll do for my 100 Hour project.
+
+2021-05-07
+Rough day, no coding.
+
+2021-05-08
+
