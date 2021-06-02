@@ -1,4 +1,9 @@
-2021-05-10 -- 
+2021-06-03 -- 
+
+2021-06-02 -- 
+
+2021-06-01 -- Attended 2 hours of 100Devs class, intro to React
+
 
 2021-05-09 -- Added a few last-minute styling changes to Crumbs app.
 
@@ -18,3 +23,4 @@ May have figured out what I'll do for my 100 Hour project.
 2021-05-02 -- Attended part of 100Devs BackEnd super review, was still going when I went to bed at 8:30pm.
 
 2021-05-01 -- Added some styling to 100Devs group project: social networking app "Crumbs"
+
