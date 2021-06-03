@@ -1,9 +1,10 @@
+2021-06-04 -- 
+
 2021-06-03 -- 
 
-2021-06-02 -- 
+2021-06-02 -- Watched a little more of back end review.
 
 2021-06-01 -- Attended 2 hours of 100Devs class, intro to React
-
 
 2021-05-09 -- Added a few last-minute styling changes to Crumbs app.
 
