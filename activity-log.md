@@ -1,6 +1,8 @@
-2021-06-04 -- 
+2021-06-05 -- 
 
-2021-06-03 -- 
+2021-06-04 -- Attended 100Devs work session, practiced interviewing, continued group work
+
+2021-06-03 -- Attended 100Devs class, worked in a group on Remo, commented files to show comprehension of React
 
 2021-06-02 -- Watched a little more of back end review.
 
