@@ -1,4 +1,6 @@
-2021-06-05 -- 
+2021-06-06 -- 
+
+2021-06-05 -- Learned about using VBA in Excel.
 
 2021-06-04 -- Attended 100Devs work session, practiced interviewing, continued group work
 
