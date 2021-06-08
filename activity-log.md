@@ -1,4 +1,10 @@
-2021-06-06 -- 
+2021-06-09 -- 
+
+2021-06-08 -- 
+
+2021-06-07 -- Continued commenting homework.
+
+2021-06-06 -- Reviewed last hour of 100Devs class from 6/1, which covered some of the React bits I was struggling with.
 
 2021-06-05 -- Learned about using VBA in Excel.
 
@@ -9,6 +15,7 @@
 2021-06-02 -- Watched a little more of back end review.
 
 2021-06-01 -- Attended 2 hours of 100Devs class, intro to React
+
 
 2021-05-09 -- Added a few last-minute styling changes to Crumbs app.
 
