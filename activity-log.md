@@ -1,6 +1,14 @@
-2021-06-09 -- 
+2021-06-13 -- 
 
-2021-06-08 -- 
+2021-06-12 -- Worked on 100Devs homework (BANK tech ?s) with Bridget.
+
+2021-06-11 -- 100Devs Remo class.
+
+2021-06-10 -- Rough day, no coding.
+
+2021-06-09 -- Continued commenting homework.
+
+2021-06-08 -- Rough day, no coding.
 
 2021-06-07 -- Continued commenting homework.
 
