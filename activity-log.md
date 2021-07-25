@@ -1,4 +1,7 @@
-2021-06-13 -- 
+2021-07-26 -- 
+
+2021-07-25 -- My world was shaken to the core a few days after my last entry, and I'm just now starting to get back to coding.
+______________________________________________________________________________________________________________________
 
 2021-06-12 -- Worked on 100Devs homework (BANK tech ?s) with Bridget.
 
