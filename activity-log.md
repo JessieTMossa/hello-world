@@ -1,4 +1,10 @@
-2021-07-26 -- 
+2021-08-11 -- 
+
+2021-08-16 -- Downloaded a template for my portfolio and picked a set of colors
+
+2021-08-15 -- Met Bridget at the coffeehouse, did a couple of codewars
+
+2021-08-11 -- Talked with Rob and Jackie, did a couple of codewars
 
 2021-07-25 -- My world was shaken to the core a few days after my last entry, and I'm just now starting to get back to coding.
 ______________________________________________________________________________________________________________________
